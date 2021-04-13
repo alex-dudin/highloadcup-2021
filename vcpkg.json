@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg/master/scripts/vcpkg.schema.json",
+  "name": "goldrush-server",
+  "version-string": "0.1",
+  "dependencies": [
+    "benchmark",
+    "boost-beast",
+    "boost-circular-buffer",
+    "boost-process",
+    "boost-serialization",
+    "boost-thread",
+    "c-ares",
+    "cli11",
+    "cpuid",
+    "gtest",
+    "rapidjson",
+    "spdlog"
+  ]
+}
